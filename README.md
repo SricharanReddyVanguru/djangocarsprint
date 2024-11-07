@@ -14,31 +14,30 @@ Media Management: Upload and display car images alongside listings.
 
 Clone the repository:
 
-bash
-Copy code
-git clone <repository-url>
+git clone <
+
 cd djangocarsprint-gitproject-master
+
 Set up the virtual environment:
 
-bash
-Copy code
 python -m venv env
+
 source env/bin/activate  # On Windows: env\Scripts\activate
+
 Install dependencies:
 
-bash
-Copy code
+
+
 pip install -r requirements.txt
+
 Apply migrations:
 
-bash
-Copy code
 python manage.py migrate
+
 Run the development server:
 
-bash
-Copy code
 python manage.py runserver
+
 Access the application at http://127.0.0.1:8000.
 
 # Usage
