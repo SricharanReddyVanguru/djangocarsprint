@@ -14,7 +14,7 @@ Media Management: Upload and display car images alongside listings.
 
 Clone the repository:
 
-git clone <
+git clone https://github.com/SricharanReddyVanguru/djangocarsprint.git
 
 cd djangocarsprint-gitproject-master
 
